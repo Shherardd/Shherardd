@@ -1,5 +1,5 @@
 <h1 align='center'>
-  ¡Hola, 👋 soy Luis Gerardo! <a href="#"><img src="https://badges.pufler.dev/commits/yearly/Shherardd"></a>
+  ¡Hola, 👋 soy Luis Gerardo! 
 </h1>
 
 
