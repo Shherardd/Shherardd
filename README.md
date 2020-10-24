@@ -21,7 +21,7 @@
   
 </p>
 
-<details>
+
   <summary>📃 My Resume / Curriculum</summary>
 
 
@@ -70,4 +70,4 @@
 
 -->
 
-</details>
+
