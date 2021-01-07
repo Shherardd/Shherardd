@@ -27,7 +27,7 @@
 
 ## Education
 
-- 📖 **Computer Information Systems Bachelor's degree**\
+- 📖 **Computer Information Systems Bachelor's Degree**\
 📆 August 2016 - December 2020\
 📍 **Universidad Autonoma de Chiapas** - Chiapas, México.
 
