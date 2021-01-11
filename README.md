@@ -1,5 +1,6 @@
 <h1 align='center'>
-  i'm Luis Gerardo, I do software
+  i'm Luis Gerardo, I do software,
+  and enjoy doing it
 </h1>
 
 
