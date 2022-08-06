@@ -33,6 +33,14 @@
 
 ## Experience
 
+- 👨‍💻 **Senior Full Stack Engineer **\
+📆 2022 - Now\
+📍 **CPA Vision** - CDMX, México
+
+- 👨‍💻 ** Full Stack Engineer **\
+📆 2021 - 2022\
+📍 **High Tech Process** - Chiapas, México
+
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
