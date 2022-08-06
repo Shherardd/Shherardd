@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Luis Gerardo, software engineer by passion, and professon.
+  Luis Gerardo, software engineer by passion, and profession.
 </h1>
 
 
