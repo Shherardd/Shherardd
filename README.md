@@ -33,11 +33,11 @@
 
 ## Experience
 
-- 👨‍💻 **Senior Full Stack Engineer **\
+- 👨‍💻 **Senior Full Stack Engineer**\
 📆 2022 - Now\
 📍 **CPA Vision** - CDMX, México
 
-- 👨‍💻 ** Full Stack Engineer **\
+- 👨‍💻 **Full Stack Engineer**\
 📆 2021 - 2022\
 📍 **High Tech Process** - Chiapas, México
 
