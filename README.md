@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Luis Gerardo, software engineer by passion, and profession.
+  Software engineer. FullStack Developer. Linux Nerd
 </h1>
 
 
